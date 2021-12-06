@@ -1,1 +1,1 @@
-python Applied_Data_Science_Project_2.py
+python ./Applied_Data_Science_Project_2.py
